@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class CheatEngine {
     public static void main(String[] args) {
+        //initialize arrays
 
         ArrayList<String> deck = new ArrayList<>();
         ArrayList<String> discard = new ArrayList<>();
@@ -18,7 +19,6 @@ public class CheatEngine {
             }
         }
 
-        //add freeze
         for (int i = 1; i <= 3; i++) {
             deck.add("fr");
         }
