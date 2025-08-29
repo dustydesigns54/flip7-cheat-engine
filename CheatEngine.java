@@ -18,15 +18,8 @@ public class CheatEngine {
                 deck.add(String.valueOf(i));
             }
         }
- nb mjerh3 fnhgmhgjgkg hg jh ,jb .k 
 
- olj ;khj lkh 
-
- lkhl,khl,hk lkhh 
-
- ;o j;li h
-
- 
+        //add freeze
         for (int i = 1; i <= 3; i++) {
             deck.add("fr");
         }
